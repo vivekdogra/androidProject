@@ -1,5 +1,5 @@
 package com.example.autocompletionplaces;
-
+/* author: Vivek Dogra - IIT Delhi */
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
